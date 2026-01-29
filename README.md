@@ -43,10 +43,8 @@ resilience_supply_chain/
 
 **Create a .env file in the root directory:**
 
-GEMINI_API_KEY=sua_chave_gemini
+GEMINI_API_KEY=sua_chave_gemini  
 NGROK_AUTH_TOKEN=seu_token_ngrok
-
-O projeto é dividido em um pipeline de dados (ETL) e uma interface de visualização (Dashboard).
 
 ### Run the Full Pipeline
 This command triggers the API data fetch, cleaning, and Star Schema creation:
