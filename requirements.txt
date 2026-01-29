@@ -1,0 +1,15 @@
+pandas
+numpy
+duckdb
+beautifulsoup4
+playwright
+pyarrow
+streamlit
+faker
+groq
+python-dotenv
+kagglehub
+yfinance
+plotly
+google-generativeai
+pyngrok

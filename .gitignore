@@ -1,0 +1,17 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Configurações e Chaves (CRÍTICO)
+.env
+.streamlit/secrets.toml
+
+# Dados (Opcional: se não quiser subir os arquivos pesados)
+data/bronze/
+data/silver/*.parquet
+data/gold/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]

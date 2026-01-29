@@ -1,0 +1,11 @@
+VALIDAÇÃO DO STAR SCHEMA
+======================================================================
+
+📅 dim_tempo: 65,752 registros
+🚚 dim_logistica: 12 registros
+📦 dim_produtos: 118 registros
+👤 dim_clientes: 593 registros
+🛢️ dim_contexto: 65752 registros
+💰 fact_vendas: 180,519 registros
+
+✅ Todas as dimensões e fato foram criadas com sucesso!
