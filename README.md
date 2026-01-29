@@ -32,14 +32,14 @@ resilience_supply_chain/
 ├── silver_layer.py # Cleaning Logic
 ├── gold_layer.py   # Dimensional Modeling
 └── requirements.txt
-
+```
 ## 🚀 Getting Started
 
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/andrewnav/resilience_supply_chain.git](https://github.com/andrewnav/resilience_supply_chain.git)
    cd resilience_supply_chain
-
+   ```
 
 **Create a .env file in the root directory:**
 
